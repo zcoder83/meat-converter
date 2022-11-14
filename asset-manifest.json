@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meat-converter/static/css/main.a102879e.css",
+    "main.js": "/meat-converter/static/js/main.296bdcb0.js",
+    "static/js/787.4a79b609.chunk.js": "/meat-converter/static/js/787.4a79b609.chunk.js",
+    "index.html": "/meat-converter/index.html",
+    "main.a102879e.css.map": "/meat-converter/static/css/main.a102879e.css.map",
+    "main.296bdcb0.js.map": "/meat-converter/static/js/main.296bdcb0.js.map",
+    "787.4a79b609.chunk.js.map": "/meat-converter/static/js/787.4a79b609.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.296bdcb0.js"
+  ]
+}
